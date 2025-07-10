@@ -1,5 +1,5 @@
 /* Linear Search in array */
-package Arrays;
+package Arrays.Search;
 
 import java.util.Scanner;
 
