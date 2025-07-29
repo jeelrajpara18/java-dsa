@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.Easy;
 
 public class FindNonRepeatingElement {
     public static void main(String[] args) {
